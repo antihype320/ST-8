@@ -1,16 +1,13 @@
-Artist: NOVA WAVES
-Title: ECHOES IN THE VOID
+Artist: Pink Floyd
+Title: The Dark Side of the Moon
 Tracks:
-Into the Unknown
-Neon Skies
-Fading Light
-Silent Echo
-Midnight Mirage
-Lost in Transmission
-Celestial Dreams
-Static Reverie
-Parallel Worlds
-Edge of Tomorrow
-Hollow Whispers
-Infinite Loop
-Shattered Illusions
+Speak to Me
+Breathe
+On the Run
+Time
+The Great Gig in the Sky
+Money
+Us and Them
+Any Colour You Like
+Brain Damage
+Eclipse
